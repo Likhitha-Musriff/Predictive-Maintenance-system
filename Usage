@@ -1,0 +1,2 @@
+#Run the model_training.py script to train the model
+python src/model_training.py
