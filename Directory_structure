@@ -1,0 +1,9 @@
+predictive-maintenance/
+
+|   README.md
+├── data/
+│   └── sensor_data.csv
+│   ├── Data_Preprocessing.py
+│   ├── Model_training.py
+│   ├── Model_Evaluation.py
+│   └── Feature_Engineering.py
